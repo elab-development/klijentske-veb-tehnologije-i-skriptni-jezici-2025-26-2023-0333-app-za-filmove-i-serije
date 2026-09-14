@@ -5,6 +5,6 @@ export const predefinedUsers: User[] = [
     id: 1,
     name: 'Jovana',
     email: 'jovana@movies.com',
-    password: 'jovana1234',
+    password: 'jovana123',
   },
 ];
